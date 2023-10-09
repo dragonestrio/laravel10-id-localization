@@ -14,7 +14,7 @@ after it, open file /config/app.php :
 
 --------
 
-ini adalah subtitle/terjemahan bahasa indonesia untuk laravel 8
+ini adalah subtitle/terjemahan bahasa indonesia untuk laravel 10
 
 taruh semua file di direktori atau folder /lang/id
 
